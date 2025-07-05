@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/18UNYNDSqxng8HiGQ5R-Cmq9i80B7vUvP/view?usp=sharing)
+![Image alt](https://github.com/zaqwsxcderfvvf/js/raw/master/photo_2025-06-18_17-56-14.jpg)
 <ol>
 <li>Daniil Vysotski</li><br>
 <li>Email: lolololololikovich@gmail.com<br>
