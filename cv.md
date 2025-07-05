@@ -1,4 +1,4 @@
-<img src='https://drive.google.com/file/d/18UNYNDSqxng8HiGQ5R-Cmq9i80B7vUvP/view?usp=sharing'>
+![alt text](https://drive.google.com/file/d/18UNYNDSqxng8HiGQ5R-Cmq9i80B7vUvP/view?usp=sharing)
 <ol>
 <li>Daniil Vysotski</li><br>
 <li>Email: lolololololikovich@gmail.com<br>
