@@ -1,10 +1,10 @@
-<img src=\h\photo_2025-06-18_17-56-14.jpg>
+<img src=https://drive.google.com/file/d/18UNYNDSqxng8HiGQ5R-Cmq9i80B7vUvP/view?usp=sharing>
 <ol>
 <li>Daniil Vysotski</li><br>
 <li>Email: lolololololikovich@gmail.com<br>
 Phone number: 8(033)653-27-20<br>
 Discord: Saikopasu (@zaqwsxcderfvvf)</li><br>
-<li>My name's Danila, <br>I like study in Rolling Scopes School because it gives me motivation to change something in my life by learning new programming languages. <br>I'm easily learning new features.</li><br>
+<li>My name's Danila, I like study in Rolling Scopes School because it gives me motivation to change something in my life by learning new programming languages. <br>I'm easily learning new features.</li><br>
 <li>Beginner in HTML, CSS and JavaScript</li><br>
 <li>Don't have any programming experience</li><br>
 <li>General secondary education</li><br>
