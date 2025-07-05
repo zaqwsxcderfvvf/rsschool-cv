@@ -15,4 +15,4 @@ dddd<br>
 ⣿⣿⣿⣿⣿⣿⡏⠄⠄⠄⠄⠄⠈⠻⠶⠶⠟⠋⠄⠄⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿<br>
 ⣿⣿⣿⣿⣿⣿⠇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⣿⣿⣿⣿<br>
 ⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿<br>
-https://zaqwsxcderfvvf.github.io/rsschool-cv/cv
+<a href='https://zaqwsxcderfvvf.github.io/rsschool-cv/cv'>Ссылка</a>
