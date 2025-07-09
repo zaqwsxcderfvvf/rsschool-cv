@@ -14,4 +14,5 @@
 ⣿⣿⣿⣿⣿⣿⡏⠄⠄⠄⠄⠄⠈⠻⠶⠶⠟⠋⠄⠄⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿<br>
 ⣿⣿⣿⣿⣿⣿⠇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⣿⣿⣿⣿<br>
 ⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿<br>
-<a href='https://zaqwsxcderfvvf.github.io/rsschool-cv/cv'>Ссылка на анкету</a>
+<a href='https://zaqwsxcderfvvf.github.io/rsschool-cv/cv'>Link on CV</a>
+<a href='https://saikopasus.github.io/rsschool-cv/'>Link</a>
